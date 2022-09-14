@@ -44,7 +44,7 @@ This is a landing page template made with react.js. The template is fully custom
 3. In the package.json file add command
 
    ```
-   "homepage": "https://[github_userName].github.io/[github_Repo_name]",
+   "homepage": "http://[github_userName].github.io/[github_Repo_name]",
    ```
 
    In the script section add:
@@ -54,9 +54,15 @@ This is a landing page template made with react.js. The template is fully custom
    "deploy": "gh-pages -d build",
    ```
 
-4. Commit these changes to Github.
+4. Commit these changes to Github.'
 
-5. In you github repo, go to the settings -> Page -> change source to gh-pages
+5. run command 
+
+   ```
+   npm run deploy
+   ```
+
+6. (optional)In you github repo, go to the settings -> Page -> change source to gh-pages
 
 # Recommended extensions for VSCode?
 
