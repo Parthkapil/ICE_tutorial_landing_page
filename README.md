@@ -75,6 +75,9 @@ This is a landing page template made with react.js. The template is fully custom
 
 # Additional resources?
 
+Install Node
+- https://nodejs.org/en/download/
+
 Check out
 
 - Traversy Media on youtube
